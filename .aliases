@@ -1,2 +1,3 @@
 alias ls="ls -G"
 alias gs="git status"
+alias subl="sublime"
